@@ -10,6 +10,7 @@ dependencies:
   - pytorch-cuda=11.7
   - pip
   - pip:
+    - basicsr
     - diffusers==0.11.1
     - transformers==4.25.1
     - xformers==0.0.16
